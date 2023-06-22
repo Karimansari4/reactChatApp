@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {"id": "1", "link": "https://cdn.siasat.com/wp-content/uploads/2023/05/image-48-3.jpg", "name": "Vijay Thalipathi", "lastChat": "This is last msg", "chat" : [{"id": 1, "msg": "Hi", "userName": "Karim Ansari"}, {"id": 2, "msg": "What are you doing", "userName": "Karim Ansari"}]},
+    {"id": "2", "link": "https://www.pinkvilla.com/images/2023-04/718500458_collage-maker-17-apr-2023-04-47-pm-4822_1280*720.jpg", "name": "Robert Downey Jr", "lastChat": "This is last msg", "chat" : [{"id": "1", "msg": "Hi", "userName": "Karim Ansari"}, {"id": 2, "msg": "How are you", "userName": "Karim Ansari"}]},
+    {"id": "3", "link": "https://images.indianexpress.com/2023/01/shah-rukh-khan-3.jpg?w=640", "name": "Shah Rukh Khan", "lastChat": "This is last msg", "chat" : [{"id": 1, "msg": "Hey", "userName": "Karim Ansari"}, {"id": 2, "msg": "compolete your task", "userName": "Karim Ansari"}]},
+    {"id": "4", "link": "https://nationaltoday.com/wp-content/uploads/2022/09/27-Ryan-Reynolds-1200x834.jpg", "name": "Ryan Reynolds", "lastChat": "This is last msg", "chat" : [{"id": 1, "msg": "Hellow", "userName": "Karim Ansari"}, {"id": 2, "msg": "where are you", "userName": "Karim Ansari"}]},
+    {"id": "5", "link": "https://stylesatlife.com/wp-content/uploads/2021/03/Famous-Bollywood-Actor-Actor-Ajay-Devgan.jpg.webp", "name": "Ajay Devgan", "lastChat": "This is last msg", "chat" : [{"id": 1, "msg": "Hye There", "userName": "Karim Ansari"}, {"id": 2, "msg": "do you have any work", "userName": "Karim Ansari"}]},
+    {"id": "6", "link": "https://im.rediff.com/movies/2019/jul/02movie1.jpg?w=670&h=900", "name": "Shahid Kapoor", "lastChat": "This is last msg", "chat" : [{"id": 1, "msg": "Hi", "userName": "Karim Ansari"}]},
+    {"id": "7", "link": "https://im.rediff.com/movies/2019/jul/02movie3.jpg?w=670&h=900", "name": "Vicky Kaushal", "lastChat": "This is last msg", "chat" : [{"id": 1, "msg": "Hi", "userName": "Karim Ansari"}]},
+    {"id": "8", "link": "https://im.rediff.com/movies/2019/jul/02movie4.jpg?w=670&h=900", "name": "Salman Khan", "lastChat": "This is last msg", "chat" : [{"id": 1, "msg": "Hi", "userName": "Karim Ansari"}]},
+    {"id": "9", "link": "https://im.rediff.com/movies/2019/jul/02movie5.jpg?w=670&h=900", "name": "Akshay Kumar", "lastChat": "This is last msg", "chat" : [{"id": 1, "msg": "Hi", "userName": "Karim Ansari"}]},
+    {"id": "10", "link": "https://im.rediff.com/movies/2019/jul/02movie6.jpg?w=670&h=900", "name": "Ranveer Singh", "lastChat": "This is last msg", "chat" : [{"id": 1, "msg": "Hi", "userName": "Karim Ansari"}]},
+    {"id": "11", "link": "https://sm.mashable.com/t/mashable_in/photo/default/t_rxrn.720.jpg", "name": "Hrithik Roshan", "lastChat": "This is last msg", "chat" : [{"id": 1, "msg": "Hi", "userName": "Karim Ansari"}]},
+    {"id": "12", "link": "https://imgix.ranker.com/list_img_v2/16236/496236/original/the-top-south-indian-actors-of-today-u1", "name": "Ram Charan", "lastChat": "This is last msg", "chat" : [{"id": 1, "msg": "Hi", "userName": "Karim Ansari"}]}
+  ]
+}
