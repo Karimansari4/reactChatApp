@@ -1,6 +1,6 @@
 <h1 align="center">React Chat App</h1> <br/><br/>
 
-## Ecommerce React app
+## React Chat App
 <p>Create the frontend for a chat application. You can check out the demo link down below.</p>
 
 
