@@ -33,7 +33,7 @@ function UserChat({ setUserName}) {
 
     // fetching single user data
     const getSingleUser = async() => {
-        return await axios.get(`http://localhost:4000/users/${id}`).then((response) => {
+        return await axios.get(`https://my-json-server.typicode.com/Karimansari4/reactChatApp/users/${id}`).then((response) => {
             setUserChat(response.data.chat)
             setUserName(response.data.name)
             setUser(response.data)

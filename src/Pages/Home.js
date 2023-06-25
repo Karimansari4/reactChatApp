@@ -27,7 +27,8 @@ function Home() {
 
   // fetching all users data
   const getAllUsers = async() => {
-    return await axios.get('http://localhost:4000/users').then((response) => {
+    // return await axios.get('http://localhost:4000/users').then((response) => {
+    return await axios.get('https://my-json-server.typicode.com/Karimansari4/reactChatApp/users').then((response) => {
       setContackList(response.data)
       setLoading(true)
     }).catch((err) => {
@@ -72,7 +73,7 @@ function Home() {
             <Skeleton sx={{ml: 2, mt: 1, display: 'block'}} variant="rectangular" width={120} height={19} />
           </Box>
         </Box>
-        <Box sx={{ display: 'flex'}}>
+        <Box sx={{ display: 'flex', mt: 1}}>
           <Skeleton sx={{ml: 2}} variant="circular" width={40} height={40} />
           <Box>
             <Skeleton sx={{ml: 2}} variant="rectangular" width={120} height={20} />
