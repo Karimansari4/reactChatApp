@@ -55,4 +55,4 @@
 
 <p>Project is setedup and runinng on localhost:3000/</p>
 
-<h3>Demo Link -> <a href="https://6497de07f4f57452d09b5a21--musical-salmiakki-e66fd5.netlify.app/">Click here</a></h3>
+<h3>Demo Link -> <a href="https://6497de07f4f57452d09b5a21--musical-salmiakki-e66fd5.netlify.app/" target="blank">Click here</a></h3>
